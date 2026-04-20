@@ -1,0 +1,46 @@
+# Dependency packages
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter/Dart specific files
+.metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.json
+.externalLibraries/
+
+# Web related
+# Generated files for web builds
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+# Symbols and trace files
+app.*.symbols
+app.*.map.json
+
+# IDE specific files
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables (Sensitive data)
+.env
+.env.*
+
+# Optional: Generated code
+# Uncomment the following lines if you don't want to track build_runner outputs
+# *.g.dart
+# *.gr.dart
+# *.freezed.dart
