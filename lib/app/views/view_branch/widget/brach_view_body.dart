@@ -1,8 +1,4 @@
-import 'package:e_money/app/views/view_branch/widget/brach_view_map.dart';
-import 'package:e_money/app/views/view_branch/widget/brachs_list.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
-import 'package:e_money/core/widgets/search_widget.dart';
-import 'package:flutter/material.dart';
+part of '../branch_view.dart';
 
 class BrachViewBody extends StatelessWidget {
   const BrachViewBody({super.key});

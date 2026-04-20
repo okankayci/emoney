@@ -1,7 +1,4 @@
-import 'package:e_money/core/data/contries_data.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
+part of '../exchange_rate_view.dart';
 
 class ExchangeRateListItem extends StatelessWidget with ContriesData {
   ExchangeRateListItem({super.key, required this.index});

@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
+part of '../interest_rate_view.dart';
 
 class InterestRateListItem extends StatelessWidget {
   final Map<String, String> item;

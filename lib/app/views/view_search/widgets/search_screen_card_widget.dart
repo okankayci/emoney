@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
+part of '../search_view.dart';
 
 class SearchScreenCardWidget extends StatelessWidget {
   const SearchScreenCardWidget({

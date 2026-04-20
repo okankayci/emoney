@@ -1,9 +1,4 @@
-import 'package:e_money/app/views/view_branch/branch_view.dart';
-import 'package:e_money/app/views/view_exchange_rate/exchange_rate_view.dart';
-import 'package:e_money/app/views/view_interest_rate/interest_rate_view.dart';
-import 'package:e_money/app/views/view_search/widgets/search_screen_card_widget.dart';
-import 'package:flutter/material.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
+part of '../search_view.dart';
 
 class SearchViewBody extends StatelessWidget {
   const SearchViewBody({super.key});

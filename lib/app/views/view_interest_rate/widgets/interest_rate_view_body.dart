@@ -1,7 +1,4 @@
-import 'package:e_money/app/views/view_interest_rate/widgets/interest_rate_view_list.dart';
-import 'package:e_money/core/extensions/context_extension.dart';
-import 'package:e_money/core/widgets/table_header_row.dart';
-import 'package:flutter/material.dart';
+part of '../interest_rate_view.dart';
 
 class InterestRateViewBody extends StatelessWidget {
   const InterestRateViewBody({super.key});
