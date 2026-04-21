@@ -19,7 +19,7 @@ class ExchangeRateView extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            //AppBar
+            //Header
             const AppBarWidget(title: "Exchange rate", showLeading: true),
             //Body
             ExchangeRateViewBody(),

@@ -16,7 +16,7 @@ class InterestRateViewBody extends StatelessWidget {
               secondTitle: "Deposit",
               thirdTitle: "Rate",
             ),
-            // Kaydırılabilir Liste
+            // Interest Rate Liste
             InterestRateViewList(),
           ],
         ),

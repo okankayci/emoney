@@ -16,7 +16,7 @@ class ExchangeRateViewBody extends StatelessWidget {
               secondTitle: "Buy",
               thirdTitle: "Sell",
             ),
-            // Liste
+            // Exchange Rate Listesi
             ExchangeRateViewList(),
           ],
         ),

@@ -7,6 +7,7 @@ class BrachViewBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
+        //Harita
         BrachViewMap(),
         context.sizedHeightBoxLow,
         Expanded(

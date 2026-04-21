@@ -20,7 +20,7 @@ class SearchView extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            //AppBar
+            //Header
             AppBarWidget(title: "Search", showLeading: false),
 
             //Body

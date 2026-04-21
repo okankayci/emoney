@@ -18,7 +18,7 @@ class InterestRateView extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            //AppBar
+            //Header 
             const AppBarWidget(title: "Interest Rate", showLeading: true),
 
             //Body

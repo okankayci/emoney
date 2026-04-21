@@ -20,7 +20,7 @@ class BranchView extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            //AppBar
+            //Header
             AppBarWidget(title: "Branch", showLeading: true),
 
             //Body

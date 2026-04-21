@@ -11,6 +11,7 @@ class AppBarWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: [
+        //leading butonu
         showLeading
             ? IconButton(
                 onPressed: () => context.pop(),
@@ -18,6 +19,7 @@ class AppBarWidget extends StatelessWidget {
               )
             : context.sizedWidthBoxLow2x,
         context.sizedWidthBoxLow,
+        //title
         Text(title, style: context.heading1),
       ],
     );
